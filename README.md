@@ -6,3 +6,4 @@ The dataset used was downloaded from [Kaggle](https://www.kaggle.com/datasets/sa
 
 When an image is loaded the output looks like this:
 
+![Cat-or-Dog](output_example.png)
