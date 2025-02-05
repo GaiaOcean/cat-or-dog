@@ -4,3 +4,5 @@ A deep learning model built with PyTorch for classifying images as either cats o
 
 The dataset used was downloaded from [Kaggle](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
 
+When an image is loaded the output looks like this:
+
